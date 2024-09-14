@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(254, 253, 244);
+  font-family: monospace;
+}
+body > header {
+  background-color: rgb(235, 216, 253);
+  display: flex;
+}
+body > footer {
+  background-color: hotpink;
+}
